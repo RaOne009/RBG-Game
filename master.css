@@ -1,0 +1,22 @@
+body {
+    background-color: #232323;
+}
+.square {
+background-color: red;
+
+width: 30%;
+
+padding-bottom: 250px;
+
+margin: 1.6%;
+
+float: inline-end;
+}
+h1 {
+    color: whitesmoke;
+}
+#container {
+margin: 0 auto;
+
+max-width: 827px;
+}
